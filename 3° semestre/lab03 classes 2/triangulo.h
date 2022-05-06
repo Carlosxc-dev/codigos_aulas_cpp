@@ -1,7 +1,6 @@
 #ifndef triangulo
 #define triangulo
 
-
 class Triangulo
 {
 private:
