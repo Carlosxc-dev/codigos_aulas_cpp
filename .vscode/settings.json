@@ -3,6 +3,7 @@
         "cmath": "cpp",
         "iosfwd": "cpp",
         "iomanip": "cpp",
-        "stdexcept": "cpp"
+        "stdexcept": "cpp",
+        "iostream": "cpp"
     }
 }
